@@ -1,1 +1,1 @@
-# java-backend-foundation
+By maintaining this repository, I aim to showcase consistent learning, practical coding skills, and backend development knowledge. It will serve as both a personal reference and a portfolio for career opportunities.
